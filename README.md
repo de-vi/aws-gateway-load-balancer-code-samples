@@ -9,6 +9,7 @@ AWS Gateway Load Balancer (GWLB). The repository is organized by programming lan
 * [AWS SDK for Python (Boto3)](python/)
 * [AWS SDK for Go](go/)
 * [AWS CLI](aws-cli/)
+* [Terraform](terraform)
 
 To learn more about Gateway Load Balancer, checkout the [Gateway Load Balancer](https://aws.amazon.com/elasticloadbalancing/gateway-load-balancer/) page and the [documentation](https://docs.aws.amazon.com/elasticloadbalancing/latest/gateway/introduction.html).
 

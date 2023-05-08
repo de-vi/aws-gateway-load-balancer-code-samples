@@ -2,7 +2,7 @@
 .DS_Store
 *.pyc
 __pycache__
-*.tfstate
+*.tfstate*
 *.terraform/*
 *.terraform*
-
+*.tfvars

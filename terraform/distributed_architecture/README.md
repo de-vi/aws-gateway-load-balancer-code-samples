@@ -1,0 +1,1 @@
+This is the terraform implementation of distributed architecture described in https://github.com/de-vi/aws-gateway-load-balancer-code-samples/tree/main/aws-cloudformation/distributed_architecture. 
